@@ -1,4 +1,4 @@
-# Smart Inventory Management System (SAP-Integrated Logic)
+# Inventory Management System- Web App
 
 ## Project Overview
 
