@@ -28,7 +28,7 @@ As a student specializing in SAP, I implemented this project to simulate real-wo
 ## Installation & Setup
 
 1. *Clone the repository:*
-git clone https://github.com/your-username/inventory-management-system.git
+git clone [https://github.com/your-username/inventory-management-system.git](https://github.com/SvaraShah/Inventory-management-system.git)
 
 2. *Create virtual environment*
 python -m venv .env
